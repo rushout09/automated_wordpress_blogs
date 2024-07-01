@@ -1,0 +1,6 @@
+.env
+.venv/
+.idea/
+__pycache__/
+images/
+token_usage.csv
